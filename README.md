@@ -283,7 +283,3 @@ pip install -r requirements.txt
 
 This project is intended for research and educational purposes only.
 It should not be used for clinical diagnosis without validation by medical professionals.
-
-````
-
----
